@@ -33,8 +33,6 @@ Backend:
 
 ## 📁 Project Structure
 
-## 📁 Project Structure
-
 ```bash
 airbnb-clone/
 │
@@ -56,18 +54,24 @@ airbnb-clone/
 ## ⚙️ Setup Instructions
 
 ### Clone Repo
+```bash
 git clone https://github.com/your-username/airbnb-clone.git
 cd airbnb-clone
+````
 
 ### Backend Setup
+```bash
 cd server
 npm install
 npm run dev
+```
 
 ### Frontend Setup
+```bash
 cd client
 npm install
 npm run dev
+```
 
 ---
 
