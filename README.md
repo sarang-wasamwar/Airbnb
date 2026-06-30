@@ -34,18 +34,18 @@ Backend:
 ## 📁 Project Structure
 
 airbnb-clone/
-│
-├── client/        (React Frontend)
-│   ├── src/
-│   └── public/
-│
-├── server/        (Node + Express Backend)
-│   ├── models/
-│   ├── routes/
-│   ├── controllers/
-│   └── index.js
-│
-└── README.md
+  │
+  ├── client/        (React Frontend)
+  │     ├── src/
+  │     └── public/
+  │
+  ├── server/        (Node + Express Backend)
+  │     ├── models/
+  │     ├── routes/
+  │     ├── controllers/
+  │     └── index.js
+  │
+  └── README.md
 
 ---
 
