@@ -57,7 +57,7 @@ airbnb-clone/
 ```bash
 git clone https://github.com/your-username/airbnb-clone.git
 cd airbnb-clone
-````
+```
 
 ### Backend Setup
 ```bash
